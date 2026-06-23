@@ -5,7 +5,7 @@ Me interesa crear aplicaciones útiles, bien estructuradas y documentadas.
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante / desarrollador de Aplicaciones Multiplataforma
+- 🎓 Estudiante / desarrollador de Aplicaciones
 - 💼 Experiencia en entorno profesional en OFISUR S.L
 - 🧠 Interesado en backend, bases de datos, automatización y desarrollo web
 - 🛠️ Stack principal: Java, SQL, JavaScript, TypeScript, Git y GitHub
