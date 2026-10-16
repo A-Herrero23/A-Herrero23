@@ -1,6 +1,6 @@
 # 👋 Hola, soy Álvaro Herrero
 
-Desarrollador enfocado en Java, SQL, JavaScript y desarrollo backend.  
+Desarrollador enfocado en Java, SQL, Pyton y desarrollo backend.  
 Me interesa crear aplicaciones útiles, bien estructuradas y documentadas.
 
 ## 🚀 Sobre mí
@@ -8,15 +8,14 @@ Me interesa crear aplicaciones útiles, bien estructuradas y documentadas.
 - 🎓 Estudiante / desarrollador de Aplicaciones
 - 💼 Experiencia en entorno profesional en OFISUR S.L
 - 🧠 Interesado en backend, bases de datos, automatización y desarrollo web
-- 🛠️ Stack principal: Java, SQL, JavaScript, TypeScript, Git y GitHub
+- 🛠️ Stack principal: Java, SQL, Python, Git y GitHub
 - 📌 Objetivo: seguir mejorando como desarrollador y crear proyectos reales
 
 ## 🧰 Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
